@@ -18,6 +18,9 @@ DB_PASS = password
 ## Installation
 To run this project, install it locally using npm:
 
+new tom 2/11/2023
+http://localhost:5000/ 
+
 ```
 $ npm install
 $ npm start
